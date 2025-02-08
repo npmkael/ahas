@@ -1,3 +1,8 @@
+####################################################
+# Part 2 - Programming exercise: Fix the syntax
+####################################################
+
+
 number = int(input("Please type in a number: "))
 
 if number > 100:
