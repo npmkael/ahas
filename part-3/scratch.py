@@ -1,5 +1,3 @@
-word = input("Enter word ")
+word = "pineapple"
 
-while True: 
-  substring = input("What are you looking for in the word? ")
-  index = word.find(substring)
+print(word[5:])
